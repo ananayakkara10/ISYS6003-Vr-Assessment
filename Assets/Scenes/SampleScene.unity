@@ -426,6 +426,21 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 44f67d295b428ce40872a3a4ca7e1a54, type: 3}
+--- !u!1 &455885740 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100002, guid: 5e9e851c0e142814dac026a256ba2ac0,
+    type: 3}
+  m_PrefabInstance: {fileID: 1534843878}
+  m_PrefabAsset: {fileID: 0}
+--- !u!45 &455885745
+Skybox:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 455885740}
+  m_Enabled: 1
+  m_CustomSkybox: {fileID: 2100000, guid: 096be19f838addd45821efc82508c187, type: 2}
 --- !u!1001 &468397851
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -934,7 +949,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 3}
       propertyPath: m_LocalPosition.x
@@ -984,6 +999,21 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1534843878}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1698489860 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 5e9e851c0e142814dac026a256ba2ac0,
+    type: 3}
+  m_PrefabInstance: {fileID: 1534843878}
+  m_PrefabAsset: {fileID: 0}
+--- !u!45 &1698489865
+Skybox:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1698489860}
+  m_Enabled: 1
+  m_CustomSkybox: {fileID: 2100000, guid: eca3c00ef1cc6ce45bfade23ebc4ab1e, type: 2}
 --- !u!1 &1725982592
 GameObject:
   m_ObjectHideFlags: 0
